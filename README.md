@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shubham-3007
 - 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning frontend development.
-- 💞️ 
 - 📫 How to reach me (https://www.linkedin.com/in/shubham-jadhav-3b5489203/)
 
 <!---
